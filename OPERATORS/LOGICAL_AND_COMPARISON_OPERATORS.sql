@@ -9,6 +9,9 @@ SELECT * FROM Livros;
 -- Selecionando livros que foram publicados após 1080
 SELECT * FROM Livros l WHERE AnoPublicacao > 1980;
 
+-- Selecionando livros que foram publicados em um ano diferente de 1980
+SELECT * FROM Livros l WHERE AnoPublicacao <> 1980;
+
 -- Selecionando livros que foram publicados após 1080 ou Do autor Gabriel Garcia
 SELECT * FROM Livros l WHERE (AnoPublicacao > 1980) OR (AutorID = 1);
 

@@ -7,15 +7,14 @@
 - The goal of this project is to serve as a practical reference for SQL enthusiasts, especially those in the early stages of their development careers. Here, you'll find clear and explanatory examples, step by step, to help you grasp and apply fundamental and advanced SQL concepts in your daily work.
 
 ## Contents
-1. **Initial Database:**
-   - [x] Creation of a simple database.
-
-2. **Tables and Relationships:**
+1. **[Initial Database](/CREATE_DATABASE/):**
+   - [x] Creation of a simple database
    - [x] Definition of tables.
    - [x] Establishment of relationships.
 
-3. **Basic Queries:**
+2. **[Basic Queries](/OPERATORS/):**
    - [x] SELECT, FROM, WHERE, JOIN and other essential commands.
+   - [x] OPERATORS.
 
 3. **🚧 Work in Progress 🚧**
    - [ ] SQL COMMAND TYPES (DDL, DQL, DML, DCL, TCL).

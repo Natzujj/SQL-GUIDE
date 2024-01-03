@@ -20,8 +20,10 @@
    - ✅ SELECT, FROM, WHERE and other essential commands.
    - ✅ OPERATORS.
 
+3. **[SQL Functions Mastery](/SQL_FUNCTIONS_MASTERY/):**
+   - ✅ Functions (Aggregate Functions, Scalar Functions, Logical Functions and others).
+
 3. **🚧 Work in Progress 🚧**
-   - [ ] Functions.
    - [ ] Indexes.
    - [ ] Triggers.
    - [ ] Good Practices.

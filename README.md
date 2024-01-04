@@ -23,8 +23,10 @@
 3. **[SQL Functions Mastery](/SQL_FUNCTIONS_MASTERY/):**
    - ✅ Functions (Aggregate Functions, Scalar Functions, Logical Functions and others).
 
-3. **🚧 Work in Progress 🚧**
-   - [ ] Indexes.
+4. **[Indexes](/INDEXES/)**
+   - ✅ Some things about Index in sql.
+
+5. **🚧 Work in Progress 🚧**
    - [ ] Triggers.
    - [ ] Good Practices.
    - [ ] Others.

@@ -26,8 +26,10 @@
 4. **[Indexes](/INDEXES/)**
    - ✅ Some things about Index in sql.
 
-5. **🚧 Work in Progress 🚧**
-   - [ ] Triggers.
+5. **[Triggers](/TRIGGERS/)**
+   - ✅ Triggers.
+
+6. **🚧 Work in Progress 🚧**
    - [ ] Good Practices.
    - [ ] Others.
 

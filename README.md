@@ -27,11 +27,14 @@
    - ✅ Some things about Index in sql.
 
 5. **[Triggers](/TRIGGERS/)**
-   - ✅ Triggers.
+   - ✅ How use Triggers.
 
-6. **🚧 Work in Progress 🚧**
-   - [ ] Good Practices.
-   - [ ] Others.
+6. **[Stored Procedures](/STORED_PROCEDURES/)**
+   - ✅ How Use Stored Procedures.
+
+6. **[Best Pratices](/BEST_PRACTICES/)**
+   - ✅ Some tips about Best Practices in SQL.
+   
 
 ## Contributions
 Contributions are more than welcome! Feel free to propose improvements, corrections, or new examples. Remember, we're all learning together! 🚀
